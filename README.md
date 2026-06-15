@@ -5,7 +5,7 @@
 win笔记本，wsl2,linux环境，个人觉得比虚拟机方便；
 需要掌握常见命令如mkdir,ls,cd,cp,mv,touch,git;
 
-## [资源]（resources）
+## [资源]（./resources）
 
 csapp书籍第三版
 
